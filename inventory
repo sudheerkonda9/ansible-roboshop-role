@@ -1,6 +1,2 @@
 [mongodb]
 roboshop-us-dev-db-mongodb-01.joindevops.icu
-
-[mongodb:vars]
-MONGO_USERNAME=mongodbadmin
-MONGO_DB=categories
